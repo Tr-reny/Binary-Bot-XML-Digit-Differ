@@ -49,6 +49,6 @@ Tested by :rennykipkoech@gmail.com
 
 Buy me coffee --> https://www.buymeacoffee.com/reny
 PayPal --> rennykipkoech@gmail.com
-Thanks in advance.
+Thanks in advance
 
-I also have premium bots available 
+I also have premium bots available.
