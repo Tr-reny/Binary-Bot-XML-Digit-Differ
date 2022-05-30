@@ -29,6 +29,9 @@ Prediction : 9
 Duration : 5 Ticks
 Stake : USD
 
+![AI-Fintech](https://user-images.githubusercontent.com/57016982/170944162-b0775598-289a-49a3-85c6-2c0af545741c.jpg)
+
+
 
 Recommended Settings :
 Initial Amount : 2$ or Set by yourself
