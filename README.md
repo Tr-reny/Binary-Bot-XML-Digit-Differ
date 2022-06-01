@@ -51,11 +51,20 @@ Win Rate : 97.4% (Just at the moment)
 Tested by :rennykipkoech@gmail.com
 ![Screenshot at 2022-05-19 18-00-03](https://user-images.githubusercontent.com/57016982/171208201-7e418444-26ab-4ece-b5f1-f278731c1f46.png)
 
+
+## 😄 Want to help keeping the project?<br>
+
+You want to contribute to the project? 
+Make a donation on.
+
 Buy me coffee --> https://www.buymeacoffee.com/reny
 PayPal --> rennykipkoech@gmail.com
 Thanks in advance
 
-<HTML><BODY>
+
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=4R7Y853ARZGB2&source=url">
+    <img src="https://raw.githubusercontent.com/iqoptionapi/iqoptionapi/master/docs/paypal-donate-button.png"
+        alt="English" width="200" height="80" />
 
 <form action="https://www.paypal.com/donate" method="post" target="_top">
 <input type="hidden" name="hosted_button_id" value="4R7Y853ARZGB2" />
