@@ -69,3 +69,33 @@ Thanks in advance
 
 
 I also have premium bots available for sale 💸 
+
+
+Get All Bots And strategies:by contacting rennykipkoech@gmail.com
+
+
+
+If you want to get all the premium bot/strategy, 
+
+There are almost 40+ premium bots and strategies. I created this combo to help people so that they can test more bot and they can find out their best-suited bot for their own. Not only this but all the upcoming future premium bots also free for you.If you like you can get the combo offer.
+
+
+some best bot you can test to your accout
+BogatPro
+Dollar Path
+MillionDolla hunter
+15 Sec. SMA Bot
+PROFIT HUNTER
+Miracle Bot
+Gold Bot
+Support Macd Bot
+BOT CALL 22
+Follow Trend Binary Bot
+Ultimate Digit Over Bot
+Tick TickerRanger Bot
+High-Profit Bot
+And All the manuall strategy...
+
+If you want to get bot/strategy one by one, 
+
+We accept skrill/ neteller/perfect money/btc/ card payment. 
