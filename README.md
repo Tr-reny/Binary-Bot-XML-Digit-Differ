@@ -81,20 +81,20 @@ There are almost 40+ premium bots and strategies. I created this combo to help p
 
 
 some best bot you can test to your accout
-BogatPro
-Dollar Path
-MillionDolla hunter
-15 Sec. SMA Bot
-PROFIT HUNTER
-Miracle Bot
-Gold Bot
-Support Macd Bot
-BOT CALL 22
-Follow Trend Binary Bot
-Ultimate Digit Over Bot
-Tick TickerRanger Bot
-High-Profit Bot
-And All the manuall strategy...
+# BogatPro
+# Dollar Path
+# MillionDolla hunter
+# 15 Sec. SMA Bot
+# PROFIT HUNTER
+# Miracle Bot
+# Gold Bot
+# Support Macd Bot
+# BOT CALL 22
+# Follow Trend Binary Bot
+# Ultimate Digit Over Bot
+# Tick TickerRanger Bot
+# High-Profit Bot
+# And All the manuall strategy...
 
 If you want to get bot/strategy one by one, 
 
